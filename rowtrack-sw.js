@@ -1,4 +1,4 @@
-const CACHE = "rowtrack-v1";
+const CACHE = "rowtrack-v3";
 const ASSETS = ["./index.html", "./manifest.json"];
 
 self.addEventListener("install", e => {
